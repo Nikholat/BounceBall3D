@@ -7090,7 +7090,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -865.1682, y: 460.3}
+  m_AnchoredPosition: {x: -1149.1682, y: 621.3}
   m_SizeDelta: {x: 238.3324, y: 213.8364}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &263063490
@@ -20699,7 +20699,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -884, y: 465}
+  m_AnchoredPosition: {x: -1168, y: 626}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &728916749
@@ -41594,6 +41594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 4895460903958896818, guid: 95a36879271b67041ba35a19434927d8, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -1791
+      objectReference: {fileID: 0}
     - target: {fileID: 7052209518166493888, guid: 95a36879271b67041ba35a19434927d8, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -41673,6 +41677,22 @@ PrefabInstance:
     - target: {fileID: 7052209518166493888, guid: 95a36879271b67041ba35a19434927d8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7786972173099733479, guid: 95a36879271b67041ba35a19434927d8, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7786972173099733479, guid: 95a36879271b67041ba35a19434927d8, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7786972173099733479, guid: 95a36879271b67041ba35a19434927d8, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 2560
+      objectReference: {fileID: 0}
+    - target: {fileID: 7786972173099733479, guid: 95a36879271b67041ba35a19434927d8, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1440
       objectReference: {fileID: 0}
     - target: {fileID: 8335154211021765162, guid: 95a36879271b67041ba35a19434927d8, type: 3}
       propertyPath: m_SpriteState.m_HighlightedSprite
